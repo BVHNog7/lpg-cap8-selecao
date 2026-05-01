@@ -7,6 +7,7 @@ LLM: ChatGPT
 Versão: GPT-4o
 
 Análise: 
+
 1- Comparando os códigos das diferentes linguagens, em minha observação notei que o código em haskell foi o mais complexo entre os outros, visto que essa linguagem não usa while tradicional, sendo o loop feito com recursão. Dentre todos acredito que o mais fácil de entender foi o código escrito em python, sendo eficiente e resumido, evitando muitos detalhes adicionais.
 
 2- Ruby parece ser notoriamente a linguagem que fez o código mas simples, porém C, apesar de ter um código grande, tem uma boa organização da estrutura, sendo fácil de entender, mas por exigir o uso de break pode causar erros se não colocado. Sobre Erlang, particularmente o seu código não me agradou, pode parecer organizado, mas achei que há repetições que julgo desnecessárias.
