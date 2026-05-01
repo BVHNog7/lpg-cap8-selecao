@@ -1,8 +1,5 @@
 # Questão 1 – Loops (sem goto)
 
-
-#Código original:
-
 ```text
 k = (j + 13) / 27
 loop:
